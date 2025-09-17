@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: astro-1
+owner: maks0401
+package: .
