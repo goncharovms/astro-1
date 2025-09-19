@@ -8,7 +8,7 @@ First, run the development server:
 npm run dev
 ```
 
-You can also run the Astro template easily using Wasmer (check out the [install guide](https://docs.wasmer.io/install)):
+You can 1 also run the Astro template easily using Wasmer (check out the [install guide](https://docs.wasmer.io/install)):
 
 ```bash
 npm run build
